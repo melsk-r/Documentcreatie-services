@@ -31,10 +31,12 @@ plugins:
 
 github: melsk-r/Documentcreatie-services
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
 
 remote_theme: melsk-r/jekyll-theme-vng-realisatie
 
 project_name: /Documentcreatie services
 
-standard_family: StUF
+# standard_family: StUF
+
+standard_family: Omgevingswet
