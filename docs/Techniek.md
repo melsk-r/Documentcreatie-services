@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-with-side-nav
 title: Techniek Documentcreatie services
 ---
 # Techniek Documentcreatie services

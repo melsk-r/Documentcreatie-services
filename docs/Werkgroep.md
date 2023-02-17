@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-with-side-nav
 title: Werkgroep Documentcreatie services
 ---
 # Werkgroep Documentcreatie services

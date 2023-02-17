@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-with-side-nav
 title: Documentatie Documentcreatie services
 ---
 # Documentatie Documentcreatie services

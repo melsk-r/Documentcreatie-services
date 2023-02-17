@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-with-side-nav
 title: Documentcreatie services
 ---
 # Documentcreatie services
@@ -35,6 +35,7 @@ Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik 
 * Onderbouwing voor het wijzingsverzoek
 * De eigen voorkeur qua oplossing, inclusief voor- en nadelen
 * Eventuele andere oplossingen inclusief voor en nadelen
+
 Alle leveranciers en gemeenten kunnen dan online reageren op een wijzigingsverzoek. KING zal naar aanleiding van deze reacties een wijzigingsvoorstel doen dat in lijn is met de voorkeur in de reacties. Dit voorstel wordt vervolgens ter besluitvorming voorgelegd aan de werkgroep Documentcreatieservices. Hoe uitgebreider de online discussie is (inclusief argumenten), hoe korter de discussie tijdens bijeenkomsten kan zijn.
 
 ## Werkgroep Documentcreatieservices

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-with-side-nav
 title: Compliancy Documentcreatie services
 ---
 # Compliancy Documentcreatie services

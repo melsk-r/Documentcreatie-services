@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-with-side-nav
 title: Opdrachtgeverschap Documentcreatie services
 ---
 # Opdrachtgeverschap Documentcreatie services

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-with-side-nav
 title: ICT aanbod Documentcreatie services
 ---
 # ICT aanbod Documentcreatie services
