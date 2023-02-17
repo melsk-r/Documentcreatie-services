@@ -11,6 +11,7 @@ title: Documentatie Documentcreatie services
 * Voorbeeldberichten
 
 ### Documentcreatieservices 1.1
+
 | Document | Versie | Beheerstatus | Documentcategorie |
 | --- | --- | --- | --- |
 | Pdf.jpg Bijlage C - Informatiemodel Documentcreatie v1 00 (20140402) (PDF-bestand, 938 kB) | 1.00 | Onbekend | Koppelvlakstandaarden |
@@ -19,6 +20,7 @@ title: Documentatie Documentcreatie services
 | Pdf.jpg Specificatie Documentcreatieservices v1.1 (PDF-bestand, 1,42 MB) | 1.1 | Definitief | Koppelvlakstandaarden |	
 
 ### Documentcreatieservices 1.0
+
 | Document | Versie | Beheerstatus | Documentcategorie |
 | --- | --- | --- | --- |
 | Pdf.jpg Bijlage C - Informatiemodel Documentcreatie v1 00 (20140402) (PDF-bestand, 938 kB) | 1.00 | Onbekend | Koppelvlakstandaarden |	
