@@ -1,0 +1,39 @@
+baseurl: "/Documentcreatie services"
+apiname: "Documentcreatie services"
+url: "http://localhost:4000"
+# nav is t.b.v. generatie side-navigation menu.
+# Een 'title' zonder path of url genereert slechts een kopje.
+# 'path' vormt tezamen met de baseurl de url waarmee de 'href' wordt gevuld. 
+# Indien een 'url' voorradig dan wordt daarmee de 'href' gevuld en dient het path slechts om te bepalen welke link active is.
+# 'target: blank' zorgt er voor dat de link in een nieuw tabblad wordt geöpend.
+nav:
+  - title: Documentcreatie services
+    subnav:
+      - title: Overzicht
+        path: /
+      - title: ICT aanbod
+        path: /ICT-aanbod  
+      - title: Techniek
+        path: /Techniek
+      - title: Opdrachtgeverschap
+        path: /Opdrachtgeverschap  
+      - title: Compliancy  
+        path: /Compliancy
+      - title: Documentatie  
+        path: /Documentatie
+      - title: Werkgroep  
+        path: /Werkgroep 
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+github: melsk-r/Documentcreatie-services
+
+theme: jekyll-theme-cayman
+
+remote_theme: melsk-r/jekyll-theme-vng-realisatie
+
+project_name: /Documentcreatie services
+
+standard_family: StUF
