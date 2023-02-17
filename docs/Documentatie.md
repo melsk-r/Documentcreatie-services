@@ -3,7 +3,6 @@ layout: page-with-side-nav
 title: Documentatie Documentcreatie services
 ---
 # Documentatie Documentcreatie services
-{:.landingpage-header}
 
 ## Documentatie
 * Koppelvlakspecificatie Documentcreatieservices 1.0.02 (inclusief bijlages)

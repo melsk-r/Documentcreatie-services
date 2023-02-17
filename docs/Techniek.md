@@ -3,7 +3,6 @@ layout: page-with-side-nav
 title: Techniek Documentcreatie services
 ---
 # Techniek Documentcreatie services
-{:.landingpage-header}
 
 De Documentcreatieservices maken gebruik van de volgende referentiecomonenten:
 

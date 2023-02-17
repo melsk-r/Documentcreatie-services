@@ -3,7 +3,6 @@ layout: page-with-side-nav
 title: Werkgroep Documentcreatie services
 ---
 # Werkgroep Documentcreatie services
-{:.landingpage-header}
 
 ## Inleiding
 De werkgroep Documentcreatieservices richt zich op het beheer en de verdere ontwikkeling van het koppelvlak Documentcreatieservices.

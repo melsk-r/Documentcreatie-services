@@ -3,7 +3,6 @@ layout: page-with-side-nav
 title: Documentcreatie services
 ---
 # Documentcreatie services
-{:.landingpage-header}
 
 Documentcreatieservices is een op StUF-ZKN en StUF-BG gebaseerde berichtenstandaard voor de uitwisseling van de gegevens ten behoeve van het documentcreatieproces.
 

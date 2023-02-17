@@ -3,7 +3,6 @@ layout: page-with-side-nav
 title: Opdrachtgeverschap Documentcreatie services
 ---
 # Opdrachtgeverschap Documentcreatie services
-{:.landingpage-header}
 
 ## Hoe borg ik dat het koppelvlak ook daadwerkelijk wordt geleverd?
 

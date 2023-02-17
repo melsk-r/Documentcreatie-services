@@ -3,7 +3,6 @@ layout: page-with-side-nav
 title: ICT aanbod Documentcreatie services
 ---
 # ICT aanbod Documentcreatie services
-{:.landingpage-header}
 
 ## Afspraken met leveranciers
 
