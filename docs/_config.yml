@@ -1,6 +1,7 @@
 baseurl: "/Documentcreatie services"
 apiname: "Documentcreatie services"
 url: "http://localhost:4000"
+
 # nav is t.b.v. generatie side-navigation menu.
 # Een 'title' zonder path of url genereert slechts een kopje.
 # 'path' vormt tezamen met de baseurl de url waarmee de 'href' wordt gevuld. 
