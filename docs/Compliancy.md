@@ -11,6 +11,7 @@ title: Compliancy Documentcreatie services
 | **Datum laatst gewijzigd** | 19 mei 2015 |
 
 ## Revisie historie
+
 | Versie | Datum | Reden en aard wijziging |
 | --- | --- | --- |
 | 1.0 | 01-11-2013 | - |
@@ -125,13 +126,13 @@ De testscenario’s behorende bij deze testset zijn beschreven in een spreadshee
 
 Per referentiecomponent/rol is een tabblad opgenomen waar u de testscenario’s vindt die relevant zijn voor softwareproducten die deze referentiecomponent/rol invullen. Een testscenario beschrijving bestaat uit een sequence diagram (in UML) en een tabel waarin wordt toegelicht welke acties uitgevoerd moeten worden en wat daarbij het resultaat moet zijn.
 
-<img src="./assets/img/Testscenario afbeelding 1.png" width="600"/> 
+<img src="./assets/img/Testscenario_afbeelding_1.png" width="600"/> 
 
 Afbeelding 2: voorbeeld scenariobeschrijving
 
 Het sequence diagram geeft aan in welke volgorde de berichten verstuurd moeten worden door het StUF Testplatform of de te testen applicatie. De rode bolletjes geven de scenariostappen weer.
 
-<img src="./assets/img/Testscenario afbeelding 2.png" width="600"/>
+<img src="./assets/img/Testscenario_afbeelding_2.png" width="600"/>
 
 Afbeelding 3: voorbeeld sequence diagram
 
