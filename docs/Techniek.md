@@ -17,4 +17,4 @@ De volgende referentiecomponenten zijn relevant, omdat ze voor of na documentcre
 
 Voor een omschrijving van wat het betreffende referentiecomponent inhoudt en welke softwareproducten van welke leveranciers daar invulling aan geven, wordt verwezen naar de GEMMA Softwarecatalogus.
 
-<img src="./assets/img/Documentcreatieservices.png" width="300"/>
+<img src="./assets/img/Documentcreatieservices.png" width="600"/>

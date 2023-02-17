@@ -62,12 +62,12 @@ De volgende referentiecomponenten zijn relevant, omdat ze voor of na documentcre
 
 Voor een omschrijving van wat het betreffende referentiecomponent inhoudt en welke softwareproducten van welke leveranciers daar invulling aan geven, wordt verwezen naar de GEMMA Softwarecatalogus.
 
-<img src="./assets/img/Documentcreatieservices.png" width="300"/>
+<img src="./assets/img/Documentcreatieservices.png" width="600"/>
 
 ## Consumer en provider testen
 Bij elke test is middels een P of C aangegeven of het een Provider of Consumer test betreft. Bij een provider test moet de te testen applicatie een service beschikbaar stellen aan het StUF Testplatform; het StUF Testplatform zal één of meerdere berichten versturen naar de te testen applicatie. In geval van een consumer test levert het StUF Testplatform een service aan de te testen applicatie. De te testen applicatie moet in deze gevallen één of meerdere berichten versturen naar het StUF Testplatform. Afhankelijk of een test een provider of consumer test is verwacht het StUF Testplatform dus een bericht van de te testen applicatie of verstuurt het StUF Testplatform een bericht naar de te testen applicatie.
 
-<img src="./assets/img/Interactiepatroon.png" width="300"/>
+<img src="./assets/img/Interactiepatroon.png" width="600"/>
 
 In de volgende paragrafen wordt per referentiecomponent/rol(*) beschreven welke testen uitgevoerd moeten worden, de testscope. Indien een softwareproduct invulling geeft aan meerdere referentiecomponenten dan is de testscope voor het softwareproduct gelijk aan de gezamenlijke testscope van alle ingevulde referentiecomponenten. Bijvoorbeeld, als een softwareproduct zowel de functionaliteit levert van de referentiecomponent Zaaksysteem als van een Document Management systeem, dan dienen zowel de testen van het referentiecomponent Zaaksysteem als Document Management systeem uitgevoerd te worden.
 
@@ -125,13 +125,13 @@ De testscenario’s behorende bij deze testset zijn beschreven in een spreadshee
 
 Per referentiecomponent/rol is een tabblad opgenomen waar u de testscenario’s vindt die relevant zijn voor softwareproducten die deze referentiecomponent/rol invullen. Een testscenario beschrijving bestaat uit een sequence diagram (in UML) en een tabel waarin wordt toegelicht welke acties uitgevoerd moeten worden en wat daarbij het resultaat moet zijn.
 
-<img src="./assets/img/Testscenario afbeelding 1.png" width="300"/> 
+<img src="./assets/img/Testscenario afbeelding 1.png" width="600"/> 
 
 Afbeelding 2: voorbeeld scenariobeschrijving
 
 Het sequence diagram geeft aan in welke volgorde de berichten verstuurd moeten worden door het StUF Testplatform of de te testen applicatie. De rode bolletjes geven de scenariostappen weer.
 
-<img src="./assets/img/Testscenario afbeelding 2.png" width="300"/>
+<img src="./assets/img/Testscenario afbeelding 2.png" width="600"/>
 
 Afbeelding 3: voorbeeld sequence diagram
 
